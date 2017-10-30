@@ -1,0 +1,9 @@
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\bin\Debug\Server_congtrong.exe.config
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\bin\Debug\Server_congtrong.exe
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\bin\Debug\Server_congtrong.pdb
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\obj\Debug\Server_congtrong.Form1.resources
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\obj\Debug\Server_congtrong.Properties.Resources.resources
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\obj\Debug\Server_congtrong.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\obj\Debug\Server_congtrong.exe
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\obj\Debug\Server_congtrong.pdb
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\Server_congtrong\obj\Debug\Server_congtrong.csprojResolveAssemblyReference.cache

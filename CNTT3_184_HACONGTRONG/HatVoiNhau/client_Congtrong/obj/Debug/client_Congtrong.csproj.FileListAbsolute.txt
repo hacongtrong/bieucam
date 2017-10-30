@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\bin\Debug\client_Congtrong.exe.config
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\Interop.WMPLib.dll
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\client_Congtrong.csproj.ResolveComReference.cache
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\bin\Debug\client_Congtrong.exe
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\bin\Debug\client_Congtrong.pdb
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\bin\Debug\Interop.WMPLib.dll
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\client_Congtrong.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\client_Congtrong.Form1.resources
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\client_Congtrong.Properties.Resources.resources
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\client_Congtrong.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\client_Congtrong.exe
+C:\Users\HOME\Desktop\CNTT3_184_HACONGTRONG\HatVoiNhau\client_Congtrong\obj\Debug\client_Congtrong.pdb
